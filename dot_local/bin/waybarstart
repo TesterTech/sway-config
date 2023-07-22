@@ -1,0 +1,6 @@
+#!/usr/bin/env bash
+
+pkill waybar
+
+warbar -c ~/.config/waybar/config.json 
+
